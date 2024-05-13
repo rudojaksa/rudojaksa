@@ -13,7 +13,7 @@
 [subjective](https://github.com/rudojaksa/subjective) simple subjective image test interface  
 
 ### makeutils:
-[subrelease](https://github.com/rudojaksa/subrelease) snapshot the current directory to the package file or into subrelease archive  
+[**subrelease**](https://github.com/rudojaksa/subrelease) snapshot the current directory to the package file or into subrelease archive  
 [pcpp](https://github.com/rudojaksa/pcpp) Simple Perl (Python/C/C++) preprocessor  
 [man2md](https://github.com/rudojaksa/man2md) man to (github) markdown convertor  
 
