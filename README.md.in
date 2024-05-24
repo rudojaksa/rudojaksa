@@ -1,0 +1,29 @@
+### makeutils:
+>> perl          subrelease  2023-2024  
+>> perl                pcpp  2024       
+>> perl              man2md  2018-2019  
+
+### desktop & X:
+>> shell                 xx  2024       
+>> xkb          dvorak-hhkb  2024       
+>> xorg      xorgconf-mouse  2024       
+>> c                numlock  2024       
+
+### neural networks & co.:
+>> c                   MLP2  2020       
+>> c                  nn4cc  2020       
+>> perl         tfnohup2dat  2020       
+>> perl            paratest  2020       
+>> perl               evgen  2018       
+>> perl              reward  2018       
+
+### image processing:
+>> python           imclust  2021-2024  
+>> python        imclust.py  2021       
+>> perl              impage  2023       
+>> perl          subjective  2022       
+
+### fileutils:
+>> perl               llast  2019       
+>> perl               rezip  2020       
+
